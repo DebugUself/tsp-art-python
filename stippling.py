@@ -65,4 +65,5 @@ if(SAVE_AS_PDF):
 if(SAVE_AS_NPY):
   full_command += " --npy"
 
-os.system(cmd + full_command)
+#os.system(cmd + full_command)
+print(full_command)

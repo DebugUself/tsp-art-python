@@ -1,5 +1,10 @@
-Pillow
 ortools
 tqdm
 imageio
-scipy
+#Pillow
+#scipy
+matplotlib
+Pillow==3.4.2
+scipy==0.18.1
+numpy==1.11.2
+

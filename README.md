@@ -17,6 +17,7 @@ There are two major steps to the algorithm:
 # Requirements
 
 * [Python 3](https://www.python.org/downloads/) - you should also know how to use the console/command prompt, and run/execute a Python script. Note that command line options might be different for those using Anaconda.
+    - the best is Python 3.6.3
 * Optional: [Concorde TSP Solver](http://www.math.uwaterloo.ca/tsp/concorde/index.html) 
 * Optional: [Git](https://git-scm.com/)
 * Optional: Image editing program. Free/open-source ones: [Krita](https://krita.org/en/), [GIMP](https://www.gimp.org/)
@@ -30,6 +31,18 @@ And lastly, the image(s) that you want to convert!
 * tqdm
 * imageio
 * scipy
+
+
+> attation:
+
+must install the right version :
+
+    Pillow==3.4.2
+    scipy==0.18.1
+    numpy==1.11.2
+
+
+
 
 ## What kind of images should I use for best results?
 
